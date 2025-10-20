@@ -188,4 +188,3 @@ let aluna = {
 }
 console.log(aluna.calcularMedia())
 console.log(aluna.verificarStatus())
-
