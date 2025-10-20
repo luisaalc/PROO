@@ -1,3 +1,5 @@
+//Lista de Exercícios - Tipos Primitivos, Referências e Operadores
+
 //Q1
 let variavel = "Hello World"
 console.log(`O tipo de dado é: ${typeof variavel}`)
